@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -833,11 +833,11 @@
          sodipodi:cy="1282.8447"
          sodipodi:rx="11.095439"
          sodipodi:ry="11.095439"
-         d="m 234.51724,1282.8447 a 11.095439,11.095439 0 1 1 -22.19088,0 11.095439,11.095439 0 1 1 22.19088,0 z"
+         d="m 234.51724,1282.8447 c 0,6.1279 -4.9676,11.0955 -11.09544,11.0955 -6.12784,0 -11.09544,-4.9676 -11.09544,-11.0955 0,-6.1278 4.9676,-11.0954 11.09544,-11.0954 6.12784,0 11.09544,4.9676 11.09544,11.0954 z"
          transform="matrix(-1.5051348,0,0,1.5051348,698.20285,-1894.6054)" />
       <path
          transform="matrix(-1.5051348,0,0,1.5051348,651.25916,-1894.6054)"
-         d="m 234.51724,1282.8447 a 11.095439,11.095439 0 1 1 -22.19088,0 11.095439,11.095439 0 1 1 22.19088,0 z"
+         d="m 234.51724,1282.8447 c 0,6.1279 -4.9676,11.0955 -11.09544,11.0955 -6.12784,0 -11.09544,-4.9676 -11.09544,-11.0955 0,-6.1278 4.9676,-11.0954 11.09544,-11.0954 6.12784,0 11.09544,4.9676 11.09544,11.0954 z"
          sodipodi:ry="11.095439"
          sodipodi:rx="11.095439"
          sodipodi:cy="1282.8447"
@@ -847,7 +847,7 @@
          sodipodi:type="arc" />
       <path
          transform="matrix(-0.50962914,0,0,0.50962914,470.26239,-617.52611)"
-         d="m 234.51724,1282.8447 a 11.095439,11.095439 0 1 1 -22.19088,0 11.095439,11.095439 0 1 1 22.19088,0 z"
+         d="m 234.51724,1282.8447 c 0,6.1279 -4.9676,11.0955 -11.09544,11.0955 -6.12784,0 -11.09544,-4.9676 -11.09544,-11.0955 0,-6.1278 4.9676,-11.0954 11.09544,-11.0954 6.12784,0 11.09544,4.9676 11.09544,11.0954 z"
          sodipodi:ry="11.095439"
          sodipodi:rx="11.095439"
          sodipodi:cy="1282.8447"
@@ -863,7 +863,7 @@
          sodipodi:cy="1282.8447"
          sodipodi:rx="11.095439"
          sodipodi:ry="11.095439"
-         d="m 234.51724,1282.8447 a 11.095439,11.095439 0 1 1 -22.19088,0 11.095439,11.095439 0 1 1 22.19088,0 z"
+         d="m 234.51724,1282.8447 c 0,6.1279 -4.9676,11.0955 -11.09544,11.0955 -6.12784,0 -11.09544,-4.9676 -11.09544,-11.0955 0,-6.1278 4.9676,-11.0954 11.09544,-11.0954 6.12784,0 11.09544,4.9676 11.09544,11.0954 z"
          transform="matrix(-0.50962914,0,0,0.50962914,420.55731,-617.52611)" />
     </g>
     <text
@@ -918,73 +918,91 @@
        height="697"
        x="1084.9398"
        y="1929.5698"
-       inkscape:export-filename="/tmp/educard2.png"
+       inkscape:export-filename="/home/javaguirre/Desktop/javi-card-back.png"
        inkscape:export-xdpi="86.620003"
        inkscape:export-ydpi="86.620003" />
     <text
        sodipodi:linespacing="100%"
        id="text3826-1"
-       y="2090.7732"
-       x="1719.5653"
+       y="2108.7732"
+       x="1683.5653"
        style="font-size:178.45523071px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:'Arista 2.0 Light';-inkscape-font-specification:'Arista 2.0 Light, Light'"
-       xml:space="preserve"><tspan
-         y="2090.7732"
-         x="1719.5653"
+       xml:space="preserve"
+       inkscape:export-filename="/home/javaguirre/Desktop/javi-card-back.png"
+       inkscape:export-xdpi="86.620003"
+       inkscape:export-ydpi="86.620003"><tspan
+         y="2108.7732"
+         x="1683.5653"
          id="tspan3828-5"
          sodipodi:role="line">Javaguirre</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:59.3653183px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:'Arista 2.0 Light';-inkscape-font-specification:'Arista 2.0 Light, Light'"
-       x="1781.8114"
-       y="2248.5093"
+       x="1745.8114"
+       y="2266.5093"
        id="text3830-9"
-       sodipodi:linespacing="100%"><tspan
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="/home/javaguirre/Desktop/javi-card-back.png"
+       inkscape:export-xdpi="86.620003"
+       inkscape:export-ydpi="86.620003"><tspan
          sodipodi:role="line"
          id="tspan3832-3"
-         x="1781.8114"
-         y="2248.5093">javaguirre@wadobo.com</tspan></text>
+         x="1745.8114"
+         y="2266.5093">javaguirre@wadobo.com</tspan></text>
     <text
        sodipodi:linespacing="100%"
        id="text3838-4"
-       y="2179.1943"
-       x="1913.8505"
+       y="2197.1943"
+       x="1877.8505"
        style="font-size:59.3653183px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:'Arista 2.0 Light';-inkscape-font-specification:'Arista 2.0 Light, Light'"
-       xml:space="preserve"><tspan
-         y="2179.1943"
-         x="1913.8505"
+       xml:space="preserve"
+       inkscape:export-filename="/home/javaguirre/Desktop/javi-card-back.png"
+       inkscape:export-xdpi="86.620003"
+       inkscape:export-ydpi="86.620003"><tspan
+         y="2197.1943"
+         x="1877.8505"
          id="tspan3840-0"
          sodipodi:role="line">Javier Aguirre</tspan></text>
     <text
        sodipodi:linespacing="100%"
        id="text3291-9-9"
-       y="2567.6013"
-       x="1839.735"
+       y="2549.6013"
+       x="1801.735"
        style="font-size:59.98648453px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:'Arista 2.0 Light';-inkscape-font-specification:'Arista 2.0 Light, Light'"
-       xml:space="preserve"><tspan
-         y="2567.6013"
-         x="1839.735"
+       xml:space="preserve"
+       inkscape:export-filename="/home/javaguirre/Desktop/javi-card-back.png"
+       inkscape:export-xdpi="86.620003"
+       inkscape:export-ydpi="86.620003"><tspan
+         y="2549.6013"
+         x="1801.735"
          id="tspan3293-3-3"
          sodipodi:role="line">http://wadobo.com</tspan></text>
     <text
        sodipodi:linespacing="100%"
        id="text3194-1-6"
-       y="2314.1052"
-       x="1859.6351"
+       y="2332.1052"
+       x="1823.6351"
        style="font-size:48.71620941px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       xml:space="preserve"><tspan
-         y="2314.1052"
-         x="1859.6351"
+       xml:space="preserve"
+       inkscape:export-filename="/home/javaguirre/Desktop/javi-card-back.png"
+       inkscape:export-xdpi="86.620003"
+       inkscape:export-ydpi="86.620003"><tspan
+         y="2332.1052"
+         x="1823.6351"
          id="tspan3196-8-5"
          sodipodi:role="line">+34 676287179</tspan></text>
     <text
        sodipodi:linespacing="100%"
        id="text3194-1-6-2"
-       y="2373.5603"
-       x="1859.4449"
+       y="2391.5603"
+       x="1823.4449"
        style="font-size:48.71620941px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
-       xml:space="preserve"><tspan
-         y="2373.5603"
-         x="1859.4449"
+       xml:space="preserve"
+       inkscape:export-filename="/home/javaguirre/Desktop/javi-card-back.png"
+       inkscape:export-xdpi="86.620003"
+       inkscape:export-ydpi="86.620003"><tspan
+         y="2391.5603"
+         x="1823.4449"
          id="tspan3196-8-5-2"
          sodipodi:role="line">+31 619664140</tspan></text>
     <g
